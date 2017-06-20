@@ -1,2 +1,3 @@
 # snakeoil
-Proof of concept for product website
+Proof of concept for product website.
+Initial test.
